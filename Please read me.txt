@@ -1,0 +1,30 @@
+hamed ashraf hamed  // 43-1051
+
+Amr yasser elsaeed //  46-12638
+
+Omar Gamal Nabail //   43-18706
+
+Mahmoud khalid zakria //  43-15405
+
+
+projoct controllers
+
+
+player controllers :-
+
+(w-s-a-d) to control player movment
+
+(r)  to start player animation
+
+(e-q) switch between player dance animation
+
+
+camera controllers :-
+
+there are three camera side, front and free moving camera
+
+(v) to switch between cameras
+(i-k-j-l-o-u) to controll camera movment 
+(up-down-right-left) buttoms to control camera rotation
+
+
